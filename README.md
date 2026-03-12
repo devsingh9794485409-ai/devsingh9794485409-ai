@@ -12,7 +12,7 @@
 - CSS  
 - JavaScript  
 - Data Structures & Algorithms
--  
+  
 
 ---
 
